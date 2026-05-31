@@ -1,5 +1,6 @@
 # todo_app_api (Flutter)
 
+# Overview
 Aplikasi menggunakan arsitektur modular yang terdiri dari View, Controller, Service, dan Model. GetX digunakan untuk dependency injection, state management, dan routing, sedangkan Dio digunakan sebagai HTTP client untuk berkomunikasi dengan REST API.
 
 ## Tech Stack
