@@ -111,18 +111,18 @@ lib/
 
 ## Folder Description
 
-| Folder          | Description                                            |
-| --------------- | ------------------------------------------------------ |
-| binding         | Dependency Injection menggunakan GetX                  |
-| controller      | Business logic dan state management                    |
-| models          | Model data Todo                                        |
-| service         | Service untuk komunikasi dengan REST API               |
-| view            | Halaman aplikasi                                       |
-| widgets         | Widget khusus fitur Todo                               |
-| endpoints       | Konfigurasi endpoint api                               |
-| routes          | Konfigurasi routing aplikasi                           |
-| services        | Konfigurasi HTTP Client                                |
-| hared/widgets   | Reusable widgets                                       |
+| Folder           | Description                                            |
+| ---------------- | ------------------------------------------------------ |
+| binding          | Dependency Injection menggunakan GetX                  |
+| controller       | Business logic dan state management                    |
+| models           | Model data Todo                                        |
+| service          | Service untuk komunikasi dengan REST API               |
+| view             | Halaman aplikasi                                       |
+| widgets          | Widget khusus fitur Todo                               |
+| endpoints        | Konfigurasi endpoint api                               |
+| routes           | Konfigurasi routing aplikasi                           |
+| services         | Konfigurasi HTTP Client                                |
+| shared/widgets   | Reusable widgets                                       |
 
 ---
 
